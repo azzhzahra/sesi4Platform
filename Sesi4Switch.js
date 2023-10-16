@@ -1,5 +1,5 @@
-//Nama : Livia Aditria
-//NIM : 20220040176
+//Nama : Nurazizah zahra
+//NIM : 20220040089
 //Kelas : TI22H
 
 const penjualan = 199000;
